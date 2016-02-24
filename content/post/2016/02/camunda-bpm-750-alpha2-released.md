@@ -31,7 +31,7 @@ Process definitions evolve over time like the businesses they support. BPMN make
 Migration is performed according to a *migration plan* that tells which activity of the source process definition corresponds to which activity of the target definition.
 To facilitate composing migration plans, Cockpit ships a visual tool:
 
-{{< figure class="teaser no-border" src="cockpit-migration.gif" alt="Cockpit Migration screencast" >}}
+{{< figure class="teaser" src="cockpit-migration.gif" alt="Cockpit Migration screencast" >}}
 
 Migrating a user task is transparent from a process participant's point of view. When finishing a task after migration, process flow continues at the target activity.
 
